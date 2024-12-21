@@ -4,3 +4,13 @@
     border: 15px solid rgb(210, 210, 224);
     border-radius: 20px;
 }
+.huii{
+    background-color: rgb(248, 221, 188);
+    margin: 20px;
+    border: 20px solid rgb(175, 255, 71);
+    border-radius: 20px;
+}
+li{
+    background-color: aqua;
+    text-align: justify;
+}
