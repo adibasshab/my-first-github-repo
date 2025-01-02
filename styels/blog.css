@@ -14,3 +14,13 @@ li{
     background-color: aqua;
     text-align: justify;
 }
+header{
+    background-image: url(cartoon.jpeg);
+    width: 400px;
+    height: 600px;
+    margin: 40px;
+}
+.col{
+    color: rgb(255, 255, 255);
+    display: block;
+}
